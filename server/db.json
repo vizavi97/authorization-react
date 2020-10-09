@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "contacts": [
+    {
+      "info": "Второй контакт!!!",
+      "number": "+998973307880",
+      "id": 2
+    },
+    {
+      "info": "Первый контакт 1",
+      "number": "+998973307880",
+      "id": 3
+    }
+  ],
+  "auth": [
+    {
+      "id": 1,
+      "username": "vizavi97@yahoo.com",
+      "password": "test"
+    }
+  ]
+}
