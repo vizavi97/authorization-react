@@ -1,0 +1,7 @@
+{
+  "/api/": "/",
+  "/blog/:resource/:id/show": "/:resource/:id",
+  "/blog/:category": "/posts?category=:category",
+  "/contacts/": "/contacts/",
+  "/auth/": "/auth/"
+}
